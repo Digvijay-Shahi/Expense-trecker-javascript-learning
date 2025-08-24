@@ -40,4 +40,4 @@ Total expense updates automatically
 Click Delete → Removes expense from list and storage
 
 📸 Demo 
-![Expense Tracker Screenshot](./Screenshot(380).png)
+![Expense Tracker Screenshot](./Screenshot.png)
